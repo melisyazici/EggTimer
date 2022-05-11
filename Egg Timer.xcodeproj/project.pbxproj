@@ -17,7 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		15CF66F527AF43F100A97B4E /* EggTimer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EggTimer.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		15CF66F527AF43F100A97B4E /* Egg Timer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Egg Timer.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		15CF66F827AF43F100A97B4E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		15CF66FA27AF43F100A97B4E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		15CF66FC27AF43F100A97B4E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -50,7 +50,7 @@
 		15CF66F627AF43F100A97B4E /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				15CF66F527AF43F100A97B4E /* EggTimer.app */,
+				15CF66F527AF43F100A97B4E /* Egg Timer.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -73,9 +73,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		15CF66F427AF43F100A97B4E /* EggTimer */ = {
+		15CF66F427AF43F100A97B4E /* Egg Timer */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 15CF670927AF43F300A97B4E /* Build configuration list for PBXNativeTarget "EggTimer" */;
+			buildConfigurationList = 15CF670927AF43F300A97B4E /* Build configuration list for PBXNativeTarget "Egg Timer" */;
 			buildPhases = (
 				15CF66F127AF43F100A97B4E /* Sources */,
 				15CF66F227AF43F100A97B4E /* Frameworks */,
@@ -85,9 +85,9 @@
 			);
 			dependencies = (
 			);
-			name = EggTimer;
+			name = "Egg Timer";
 			productName = EggTimer;
-			productReference = 15CF66F527AF43F100A97B4E /* EggTimer.app */;
+			productReference = 15CF66F527AF43F100A97B4E /* Egg Timer.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -105,7 +105,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 15CF66F027AF43F100A97B4E /* Build configuration list for PBXProject "EggTimer" */;
+			buildConfigurationList = 15CF66F027AF43F100A97B4E /* Build configuration list for PBXProject "Egg Timer" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -118,7 +118,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				15CF66F427AF43F100A97B4E /* EggTimer */,
+				15CF66F427AF43F100A97B4E /* Egg Timer */,
 			);
 		};
 /* End PBXProject section */
@@ -347,7 +347,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		15CF66F027AF43F100A97B4E /* Build configuration list for PBXProject "EggTimer" */ = {
+		15CF66F027AF43F100A97B4E /* Build configuration list for PBXProject "Egg Timer" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				15CF670727AF43F300A97B4E /* Debug */,
@@ -356,7 +356,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		15CF670927AF43F300A97B4E /* Build configuration list for PBXNativeTarget "EggTimer" */ = {
+		15CF670927AF43F300A97B4E /* Build configuration list for PBXNativeTarget "Egg Timer" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				15CF670A27AF43F300A97B4E /* Debug */,
